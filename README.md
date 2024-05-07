@@ -1,4 +1,4 @@
-# A little about my experience and background
+# https://marcievanauken.github.io/marcie-vanauken
 
 <!-- Personal Resume and Work Experience Website -->
 
@@ -7,9 +7,6 @@
 ### Hey there! I'm Marcie! 
 
 Welcome to my personal resume and work experience repository. Here, you'll find information about my skills, experience, and projects.
-
-[Take a look at my resume website!](https://marcievanauken.github.io/marcie-vanauken)
-> Sveltekit App using GH Actions to build and deploy to GH Pages
 
 ## About Me
 
