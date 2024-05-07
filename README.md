@@ -1,16 +1,22 @@
-# marcievanauken.github.io
+# A little about my experience and background
 
 <!-- Personal Resume and Work Experience Website -->
 
 ## Introduction
 
-Welcome to my personal resume and work experience website! Here, you'll find information about my skills, experience, and projects.
+### Hey there! I'm Marcie! 
 
-Small Readme change to test GH Action with new settings.
+Welcome to my personal resume and work experience repository. Here, you'll find information about my skills, experience, and projects.
+
+[Take a look at my resume website!](https://marcievanauken.github.io/marcie-vanauken)
+> Sveltekit App using GH Actions to build and deploy to GH Pages
 
 ## About Me
 
 <!-- Add a brief introduction about yourself, your background, and your interests. -->
+I'm all about adding a sprinkle of positivity in the world of product development and software engineering. With my natural optimism and empathy, I see challenges as opportunities and setbacks as stepping stones to success.
+
+I believe in creating solutions that not only work but also make people's lives better. My optimism keeps me resilient, and my empathy helps me understand and address the needs of those around me. Let's build something awesome together!
 
 ## Skills
 
@@ -41,36 +47,3 @@ Small Readme change to test GH Action with new settings.
 <!-- Specify the license for your website's content, if applicable. -->
 
 <!-- Add any additional sections or content as needed. -->
-
-
-
-# Slick Portfolio With Svelte.
-
-Vercel-like style portfolio template for developers.
-
-If you want to use the template as it is, you can :
-
-- update files in `src/lib/data` with your data.
-- update `src/lib/index.scss` for custom styling.
-- update `static/favicon.ico` to customize the tab's icon.
-
-Feel free to explore and hack the template to your needs if you feel like it.
-
-Before deploying to `GitHub Pages`:
-
-- make sure to change the `base` parameter in `svelte.config.js`.
-- make sure to update the target branch of the `deploy.yml` file, it is set to build from `master` branch by default.
-- Allow `GitHub Pages` in your repo settings with correct permissions:
-  - Permissions:
-    - go to your repo `Settings` > `Actions` > `General`
-    - in `Actions permissions` : check `Allow all actions and reusable workflows`
-  - Pages:
-    - go to your repo's `Settings` > `Pages`
-    - in Source section, select `Deploy from a branch`.
-    - in Branch section, select `gh-pages` and `/ (root)` and click on save
-
-if you did all the above `CORRECTLY`, and no workflow was launched, try to push another commit (maybe an empty one), otherwise you can create an issue and link your repo.
-
-## Known issues:
-
-- Svelte no longer support `node 14`, use a newer version instead.

@@ -3,12 +3,11 @@ import { getSkills } from './skills';
 
 export const title = 'Home';
 
-export const name = 'Name';
-
-export const lastName = 'LastName';
+export const name = 'Marcie';
+export const lastName = 'Van Auken';
 
 export const description =
-	'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Corrupti, rerum. Debitis accusantium deleniti enim iste dignissimos? Similique, exercitationem! Odit vero, numquam quae ratione maxime sunt reiciendis laudantium quaerat iure ipsum!';
+	`A seasoned professional adept in product development with a solid foundation in web development and software engineering. Proven to innovate, launch, and manage products successfully. Committed to improving products people love.`;
 
 export const links: Array<{ platform: Platform; link: string }> = [
 	{ platform: Platform.GitHub, link: 'https://github.com/' },
