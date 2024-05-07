@@ -1,3 +1,49 @@
+# marcievanauken.github.io
+
+<!-- Personal Resume and Work Experience Website -->
+
+## Introduction
+
+Welcome to my personal resume and work experience website! Here, you'll find information about my skills, experience, and projects.
+
+Small Readme change to test GH Action with new settings.
+
+## About Me
+
+<!-- Add a brief introduction about yourself, your background, and your interests. -->
+
+## Skills
+
+<!-- List your skills and areas of expertise. -->
+
+## Experience
+
+<!-- Provide details about your work experience, including job titles, companies, and responsibilities. -->
+
+## Projects
+
+<!-- Showcase your projects, including descriptions, technologies used, and links to their repositories or live demos. -->
+
+## Education
+
+<!-- Mention your educational background, including degrees, institutions, and relevant coursework. -->
+
+## Contact
+
+<!-- Provide your contact information, such as email address, phone number, and links to your social media profiles. -->
+
+## References
+
+<!-- Optionally, include references or testimonials from previous employers or clients. -->
+
+## License
+
+<!-- Specify the license for your website's content, if applicable. -->
+
+<!-- Add any additional sections or content as needed. -->
+
+
+
 # Slick Portfolio With Svelte.
 
 Vercel-like style portfolio template for developers.
