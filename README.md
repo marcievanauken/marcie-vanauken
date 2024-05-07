@@ -4,7 +4,7 @@
 
 ## Introduction
 
-### Hey there! I'm Marcie! 
+Hey there! I'm Marcie.
 
 Welcome to my personal resume and work experience repository. Here, you'll find information about my skills, experience, and projects.
 
