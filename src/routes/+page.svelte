@@ -26,7 +26,18 @@
 	<div class="md:flex-1 gap-10px">
 		<MainTitle classes="md:text-left ">Hello! I'm {name}</MainTitle>
 		<p class="text-[var(--tertiary-text)]  text-center md:text-left text-[1.2em] font-extralight">
-			{description}
+			<!-- {description} -->
+			This site is currently a Work In Progress, but it will be updated with my content soon!
+		</p>
+		<p
+			class="text-[var(--tertiary-text)] mt-5 text-center md:text-left text-[1.2em] font-extralight"
+		>
+			It will showcase my skills, experience, qualifications, and projects.
+		</p>
+		<p
+			class="text-[var(--tertiary-text)] mt-5 text-center md:text-left text-[1.2em] font-extralight"
+		>
+			In the meantime shoot me an email and check out my socials!
 		</p>
 		<div class="row justify-center md:justify-start p-y-15px p-x-0px gap-2">
 			{#each links as link}

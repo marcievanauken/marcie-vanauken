@@ -10,31 +10,31 @@ export const description =
 	`A seasoned professional adept in product development with a solid foundation in web development and software engineering. Proven to innovate, launch, and manage products successfully. Committed to improving products people love.`;
 
 export const links: Array<{ platform: Platform; link: string }> = [
-	{ platform: Platform.GitHub, link: 'https://github.com/' },
+	{ platform: Platform.GitHub, link: 'https://github.com/marcievanauken/' },
 	{
 		platform: Platform.Linkedin,
-		link: 'https://www.linkedin.com/'
+		link: 'https://www.linkedin.com/in/marcievanauken/'
 	},
-	{
-		platform: Platform.Twitter,
-		link: 'https://twitter.com/'
-	},
-	{
-		platform: Platform.StackOverflow,
-		link: 'https://stackoverflow.com/'
-	},
+	// {
+	// 	platform: Platform.Twitter,
+	// 	link: 'https://twitter.com/'
+	// },
+	// {
+	// 	platform: Platform.StackOverflow,
+	// 	link: 'https://stackoverflow.com/'
+	// },
 	{
 		platform: Platform.Email,
-		link: 'riadh_adrani@hotmail.fr'
+		link: 'marcievanauken@gmail.com'
 	},
-	{
-		platform: Platform.Youtube,
-		link: 'https://www.youtube.com'
-	},
-	{
-		platform: Platform.Facebook,
-		link: 'https://www.facebook.com'
-	}
+	// {
+	// 	platform: Platform.Youtube,
+	// 	link: 'https://www.youtube.com'
+	// },
+	// {
+	// 	platform: Platform.Facebook,
+	// 	link: 'https://www.facebook.com'
+	// }
 ];
 
 export const skills = getSkills('js', 'css', 'html', 'reactjs', 'sass', 'svelte', 'ts');
